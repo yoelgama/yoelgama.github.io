@@ -1,5 +1,6 @@
 <div align="center">
   <h1 class="nome">Joeldson de Sousa <strong>Gama</strong></h1>
+  <p>Mais conhecido como Gama, tenho 24 anos e uma vontade imensa de aprender mais sobre desenvolvimento de softwares. Atualmente estou estudando desenvolvimento WEB. Até o momento, conheço as seguintes tecnologias:</p> 
 </div>
 
 <div align="center">
