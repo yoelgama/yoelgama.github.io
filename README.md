@@ -10,7 +10,7 @@
     <li>MYSQL</li>
   </ul>
   <p>Além dessas, sou familiarizado* com Python, C, C# e já desenvolvi uma interface em Google App Script.</p>
-  <p>*Com familiarizado quero dizer que já programei por mais de 6 meses e conheço razoavelmente, embora hoje em dia eu não use com frequência.</p>
+  <p>*Com familiarizado quero dizer que já programei por no mínimo 6 meses e no máximo 2 anos e conheço razoavelmente, embora hoje em dia eu não use com frequência.</p>
   <p>Seguindo, faço uso ou tenho conhecimento, atualmente, das seguintes tecnologias:</p>
   <ul>
     <li>Sistemas Operacionais: Linux e Windows</li>
