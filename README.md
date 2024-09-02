@@ -9,9 +9,8 @@
     <li>Python</li>
   </ul>
   <p>Além dessas, sou familiarizado com C, C#, PHP e Google App Script.</p>
-  <p>Seguindo, faço uso ou tenho conhecimento, atualmente, das seguintes tecnologias:</p>
-  <span>Node.js| Bootstrap 5| AJAX.
-  </span>
+  <p>Seguindo, faço uso ou tenho conhecimento, atualmente, das seguintes tecnologias:
+  <span> Node.js | Bootstrap 5 | AJAX.</span></p>
   
 
 <div align="center">
