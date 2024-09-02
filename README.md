@@ -1,6 +1,6 @@
 <div align="center">
   <h1 class="nome">Joel <strong>Gama</strong></h1>
-  <p>Mais conhecido como Gama, tenho 24 anos e uma vontade imensa de aprender mais sobre desenvolvimento de softwares. Atualmente estou estudando desenvolvimento WEB. Até o momento, conheço as seguintes linguagens:</p>
+  <p>Mais conhecido como Gama, tenho 26 anos. Atualmente estou estudando Análise e Desenvolvimento de Sistemas e desenvolvimento WEB. Até o momento, conheço as seguintes linguagens:</p>
 </div>
 <ul>
     <li>Javascript</li>
@@ -8,15 +8,10 @@
     <li>CSS</li>
     <li>Python</li>
   </ul>
-  <p>Além dessas, sou familiarizado* com C, C#, PHP e já desenvolvi interface em Google App Script.</p>
-  <p>*Com familiarizado quero dizer que já programei por no mínimo 6 meses e no máximo 2 anos e conheço razoavelmente, embora hoje em dia eu não use com frequência.</p>
+  <p>Além dessas, sou familiarizado com C, C#, PHP e Google App Script.</p>
   <p>Seguindo, faço uso ou tenho conhecimento, atualmente, das seguintes tecnologias:</p>
-  <ul>
-    <li>Sistemas Operacionais: Linux e Windows</li>
-    <li>Frameworks, bibliotecas e padrões:
-        Node.js, Bootstrap 5, AJAX, JSON, XML.
-    </li>
-  </ul>
+  <span>Node.js| Bootstrap 5| AJAX.
+  </span>
   
 
 <div align="center">
