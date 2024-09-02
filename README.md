@@ -1,16 +1,9 @@
 <div align="center">
   <h1 class="nome">Joel <strong>Gama</strong></h1>
-  <p>Mais conhecido como Gama, tenho 26 anos. Atualmente estou estudando Análise e Desenvolvimento de Sistemas e desenvolvimento WEB. Até o momento, conheço as seguintes linguagens:</p>
+  <p>Olá, sou o Gama, tenho 26 anos e estou cursando Análise e Desenvolvimento de Sistemas pela UNICESUMAR e Lincenciatura em Ciências Humanas pela UFABC.</p>
 </div>
-<ul>
-    <li>Javascript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Python</li>
-  </ul>
-  <p>Além dessas, sou familiarizado com C, C#, PHP e Google App Script.</p>
-  <p>Seguindo, faço uso ou tenho conhecimento, atualmente, das seguintes tecnologias:
-  <span> Node.js | Bootstrap 5 | AJAX.</span></p>
+<p>Uso ou tenho conhecimento, atualmente, das seguintes tecnologias:
+  <span> Python | Javascript | HTML | CSS | Node.js | Bootstrap 5 | AJAX.</span></p>
   
 
 <div align="center">
