@@ -2,7 +2,7 @@
   <h1 class="nome">Joel <strong>Gama</strong></h1>
   <p>Olá, sou o Gama, tenho 26 anos e estou cursando Análise e Desenvolvimento de Sistemas pela UNICESUMAR e Lincenciatura em Ciências Humanas pela UFABC.</p>
 </div>
-<p>Uso ou tenho conhecimento, atualmente, das seguintes tecnologias:
+<p>Tenho conhecimento, atualmente, das seguintes tecnologias:
   <span> Python | Javascript | HTML | CSS | Node.js | Bootstrap 5 | AJAX.</span></p>
   
 
