@@ -13,4 +13,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelgama&layout=compact&langs_count=7&theme=radical" />
     </a>
 </section>
+<section id="portifolio">
+  <h2>Portifolio</h2>
+  <ul>
+    <li><a href="https://yoelgama.github.io/Simon-Game/">Simon Game: Javascript/ HTML/ CSS</a></li>
+  </ul>
+</section>
 </main>
