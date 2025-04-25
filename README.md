@@ -1,7 +1,6 @@
 <main align="center">
   <h1 class="nome">Joel <em>Gama</em></h1>
   <h2>Desenvolvedor FullStack pela COMPASS UOL</h2>
-  <p>Olá, sou o Gama, tenho 27 anos e estou cursando Análise e Desenvolvimento de Sistemas pela UNICESUMAR e Lincenciatura em Ciências Humanas pela UFABC.</p>
 <p> Javascript | React | Node.js | HTML | CSS</p>
   
 
