@@ -15,7 +15,8 @@
 <section id="portifolio">
   <h2>Portifolio</h2>
   <ul>
-    <li><a href="https://yoelgama.github.io/Simon-Game/">Simon Game: Javascript/ HTML/ CSS</a></li>
+    <li><a href="https://yoelgama.github.io/Simon-Game/">Simon Game: Deploy with GitHub Pages/ Javascript/ HTML/ CSS</a></li>
+    <li><a href="https://joelgama.com/">Personal Site: Deploy with Vercel/ Javascript/ HTML/ CSS</a></li>
   </ul>
 </section>
 </main>
