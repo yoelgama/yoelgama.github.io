@@ -6,7 +6,7 @@
 
 <section align="center">
     <a href="https://github.com/yoelgama">
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=yoelgama)](https://git.io/streak-stats)
       <img height="150em"
         src="https://github-readme-stats.vercel.app/api?username=yoelgama&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
       <img height="150em"
